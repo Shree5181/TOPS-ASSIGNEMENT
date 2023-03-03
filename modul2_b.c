@@ -12,3 +12,4 @@ int main()
     printf("simpal interest %f compound interest %f",si,ci);
     return 0;
 }
+
